@@ -6,8 +6,8 @@ const PixelAvatar: React.FC = () => {
       {/* 头像容器 - 完美圆形裁切 */}
       <div className="w-24 h-24 mx-auto rounded-full overflow-hidden border-2 border-gradient-to-r from-neon-blue to-neon-purple relative bg-white">
         <img 
-          src="/src/assets/图片3.png" 
-          alt="罗之尧" 
+          src="/src/assets/picture3.png" 
+          alt="罗尧" 
           className="w-full h-full object-cover object-center"
           style={{ 
             imageRendering: 'auto',
